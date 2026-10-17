@@ -14,7 +14,7 @@ from telethon.errors import FloodWaitError
 API_ID = 34964566
 API_HASH = '0e1adb6860c9e1a4269c87b22ecfd46a'
 SESSION_STRING = os.environ.get('TG_SESSION') # Render ke environment se aayega
-SOURCE_GROUP = 'https://t.me/ClassyMarketIndian' # Jahan se members nikalne hain
+SOURCE_GROUP = 'https://t.me/NIFTYSENSEX_12' # Jahan se members nikalne hain
 # =================================================
 
 # Render free tier ke liye dummy web server
